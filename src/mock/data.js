@@ -10,8 +10,8 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: '',
-  subtitle: '',
+  name: 'James W',
+  subtitle: 'Full Stack Designer',
   cta: '',
 };
 
@@ -37,7 +37,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project-2.jpg',
     title: '',
     info: '',
     info2: '',
@@ -46,7 +46,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project-3.jpg',
     title: '',
     info: '',
     info2: '',
